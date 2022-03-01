@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daniel Davis
-- 👀 I’m interested in software development and bitcoin
+- 👀 I’m interested in software development, decentralization, and bitcoin
 - 🌱 I’m currently learning python, java, javascript, and C
 - 💞️ I’m looking to collaborate on anything I can learn from.
 - 📫 You can email me at davis2788@gmaildotcom
